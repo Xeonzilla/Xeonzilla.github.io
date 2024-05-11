@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Xeonzilla&#39;s Note</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 17:49:05 +0800</lastBuildDate>
     <atom:link href="https://Xeonzilla.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://Xeonzilla.github.io/post/test/</link>
+      <pubDate>Sat, 11 May 2024 17:49:05 +0800</pubDate>
+      <guid>https://Xeonzilla.github.io/post/test/</guid>
+      <description>test</description>
+    </item>
   </channel>
 </rss>
