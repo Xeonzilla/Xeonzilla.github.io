@@ -1,2 +1,2 @@
 * text = auto
-*.css text eol=lf
+*.css text eol=crlf
