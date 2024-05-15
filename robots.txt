@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Xeonzilla.github.io/sitemap.xml
