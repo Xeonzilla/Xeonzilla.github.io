@@ -1,0 +1,11 @@
+User-agent: *
+
+Allow: /
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: 404.html
+
+Sitemap: https://xeonzilla.github.io/sitemap.xml
