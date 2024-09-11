@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>动画科学 on Xeonzilla's Note</title><link>https://xeonzilla.github.io/series/anime_science/</link><description>Recent content in 动画科学 on Xeonzilla's Note</description><generator>Hugo -- 0.134.1</generator><language>zh</language><lastBuildDate>Sun, 26 May 2024 22:27:00 +0800</lastBuildDate><atom:link href="https://xeonzilla.github.io/series/anime_science/index.xml" rel="self" type="application/rss+xml"/><item><title>动画科学 序</title><link>https://xeonzilla.github.io/post/anime_science_preface/</link><pubDate>Sun, 26 May 2024 22:27:00 +0800</pubDate><guid>https://xeonzilla.github.io/post/anime_science_preface/</guid><description>&lt;p>一直以来，我都是通过剧情等相对主观的方面去评价一部动画，而对作画、分镜等部分一笔带过，并不是我只需要主观情感的宣泄，单纯是源于自己的水平与能力不足。对于这些有着客观好坏之分的部分，我能给出正面或负面的评价，对于好与更好，目前我无力分辨。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>动画科学 on Xeonzilla's Note</title><link>https://xeonzilla.github.io/series/anime_science/</link><description>Recent content in 动画科学 on Xeonzilla's Note</description><generator>Hugo -- 0.134.2</generator><language>zh</language><lastBuildDate>Wed, 11 Sep 2024 23:26:00 +0800</lastBuildDate><atom:link href="https://xeonzilla.github.io/series/anime_science/index.xml" rel="self" type="application/rss+xml"/><item><title>Chroma Shift与RGB Shift</title><link>https://xeonzilla.github.io/post/chroma_shift_and_rgb_shift/</link><pubDate>Wed, 11 Sep 2024 23:26:00 +0800</pubDate><guid>https://xeonzilla.github.io/post/chroma_shift_and_rgb_shift/</guid><description>&lt;h2 id="色度的偏移">色度的偏移&lt;/h2>
+&lt;p>Chroma Shift是一种动画画面的瑕疵，这里直接引用&lt;a href="https://vcb-s.com/archives/4738">[VCB-Studio 科普教程 6] 动漫视频常见的瑕疵/缺陷介绍&lt;/a>中色度偏移的部分：&lt;/p>
+&lt;blockquote>
+&lt;p>色度偏移（chroma shift）
+色度偏移，指的是色度平面相对亮度平面的错位，通常在极红/蓝/绿/紫处（这四个地方分别是U/V极大值或者极小值），线条多了一些重影（下图自制）：
+&lt;style>
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+max-width: 720px;
+aspect-ratio: 16/9;
+position: relative;
+background-color: rgba(0, 0, 0, 0);
+}
+.container img {
+max-width: 100%;
+height: auto;
+display: block;
+}
+&lt;/style>
+&lt;div class="container">
+&lt;img onload="resizeContainer(this)" loading="lazy" src="02.avif" alt="Chroma Shift" title="Chroma Shift" />
+&lt;/div>
+&lt;script>
+function resizeContainer(img) {
+const container = img.parentElement;
+const aspectRatio = img.naturalHeight / img.naturalWidth;
+container.style.height = `${container.clientWidth * aspectRatio}px`;
+}
+&lt;/script>
+&lt;/p></description></item><item><title>动画科学 序</title><link>https://xeonzilla.github.io/post/anime_science_preface/</link><pubDate>Sun, 26 May 2024 22:27:00 +0800</pubDate><guid>https://xeonzilla.github.io/post/anime_science_preface/</guid><description>&lt;p>一直以来，我都是通过剧情等相对主观的方面去评价一部动画，而对作画、分镜等部分一笔带过，并不是我只需要主观情感的宣泄，单纯是源于自己的水平与能力不足。对于这些有着客观好坏之分的部分，我能给出正面或负面的评价，对于好与更好，目前我无力分辨。&lt;/p></description></item></channel></rss>
