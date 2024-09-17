@@ -1,5 +1,3 @@
 User-agent: *
-
-Disallow: /404.html
-
+Allow: /
 Sitemap: https://xeonzilla.github.io/sitemap.xml
