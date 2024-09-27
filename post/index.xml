@@ -23,7 +23,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#%E5%86%8D%E8%A7%81papermod" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>在&lt;a href="https://xeonzilla.github.io/post/blog_summary/" target="_blank">建站小结&lt;/a>里，我对PaperMod的评价还是相当正面的，现在看来，这样的评价或许源于我对博客框架与主题的不了解。&lt;/p>
+&lt;p>在&lt;a href="https://xeonzilla.github.io/post/blog_summary/">建站小结&lt;/a>里，我对PaperMod的评价还是相当正面的，现在看来，这样的评价或许源于我对博客框架与主题的不了解。&lt;/p>
 &lt;p>PaperMod是一款简约高效的主题，这种说法是对的；PaperMod功能简单、代码陈旧，这种说法也是对的。当想要深入拓展博客的功能、完善博客的外观时，我发现PaperMod并没有留下太多有用的配置项，如果你想要某功能，可行的道路只有自行动手编写。这也是PaperMod教程丰富的另一面：主题本身过于简单，用户需要大量自行修改。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xeonzilla.github.io/post/from_papermod_to_blowfish/featured.avif"/></item><item><title>Chroma Shift与RGB Shift</title><link>https://xeonzilla.github.io/post/chroma_shift_and_rgb_shift/</link><pubDate>Wed, 11 Sep 2024 23:26:00 +0800</pubDate><author>xeonrao01@gmail.com (Xeonzilla)</author><guid>https://xeonzilla.github.io/post/chroma_shift_and_rgb_shift/</guid><description>&lt;h2 class="relative group">色度的偏移
 &lt;div id="%E8%89%B2%E5%BA%A6%E7%9A%84%E5%81%8F%E7%A7%BB" class="anchor">&lt;/div>
 &lt;span
@@ -71,7 +71,7 @@ style="text-decoration-line: none !important;" href="#%E8%B5%B7%E5%9B%A0" aria-l
 &lt;/span>
 &lt;/h2>
 &lt;p>在初步完成个人Github Pages的搭建后，我就一直在考察除Giscus&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>外的其他评论系统。虽说Giscus托管在Github上、而且免费开源、不包含广告，看上去全是优点，但是我忽略了一个重要的因素：用户来源。&lt;/p>
-&lt;p>正如我在&lt;a href="https://xeonzilla.github.io/about/" target="_blank">关于&lt;/a>中所说，这个博客是我的动画Telegram频道&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>的一种拓展，主要发布的内容也是动画相关的观后感。至于技术博文或是其他内容，只有在我认为有必要时才起身写作。&lt;/p>
+&lt;p>正如我在&lt;a href="https://xeonzilla.github.io/about/">关于&lt;/a>中所说，这个博客是我的动画Telegram频道&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>的一种拓展，主要发布的内容也是动画相关的观后感。至于技术博文或是其他内容，只有在我认为有必要时才起身写作。&lt;/p>
 &lt;p>而Github Pages和Giscus，还是用在技术博客居多。在技术博客上要求用户使用Github登录，是一件非常自然、非常顺理成章的事；而在一篇动画观后感的评论区要求使用Github登录，显得有些离题万里、不合逻辑，这极有可能打击了用户的评论欲望。&lt;/p></description></item><item><title>不时轻声地以俄语遮羞的邻座艾莉同学</title><link>https://xeonzilla.github.io/post/roshidere/</link><pubDate>Sat, 17 Aug 2024 13:50:00 +0800</pubDate><author>xeonrao01@gmail.com (Xeonzilla)</author><guid>https://xeonzilla.github.io/post/roshidere/</guid><description>&lt;h2 class="relative group">本格“厕纸”
 &lt;div id="%E6%9C%AC%E6%A0%BC%E5%8E%95%E7%BA%B8" class="anchor">&lt;/div>
 &lt;span
