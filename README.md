@@ -1,6 +1,6 @@
 # Xeonzilla's Note
 
-[![pages-build-deployment](https://github.com/Xeonzilla/Xeonzilla.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Xeonzilla/Xeonzilla.github.io/actions/workflows/pages/pages-build-deployment) [![Netlify Status](https://api.netlify.com/api/v1/badges/6452eb85-1dc6-47d0-abdc-b236dec89bb7/deploy-status)](https://app.netlify.com/sites/xeonzilla-waline/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/60ddcb1a-8d00-406f-8c8e-158957478076/deploy-status)](https://app.netlify.com/sites/xeonzilla-monitoring/deploys)
+[![pages-build-deployment](https://github.com/Xeonzilla/Xeonzilla.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Xeonzilla/Xeonzilla.github.io/actions/workflows/pages/pages-build-deployment) [![Netlify Status](https://api.netlify.com/api/v1/badges/6452eb85-1dc6-47d0-abdc-b236dec89bb7/deploy-status)](https://app.netlify.com/sites/walinezilla/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/08a0bf4b-a7fb-4170-b6fb-62f697c7f337/deploy-status)](https://app.netlify.com/sites/umamizilla/deploys)
 
 **欢迎👋 这里是Xeonzilla的笔记**
 
